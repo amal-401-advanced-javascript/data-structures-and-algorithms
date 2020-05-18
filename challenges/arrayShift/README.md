@@ -10,3 +10,4 @@
 
 # Solution
   - ![](../assets/array-shift.jpg)
+  
