@@ -1,5 +1,5 @@
 # Reverse an Array
-  - #1 code challenge in 401
+  - first code challenge in 401
 
 ## Challenge
   - Reverse an array. 
@@ -9,4 +9,4 @@
   - I only did for loop inside function and did the for loop reverse and push the output to a new array then console the output.
 
 ## Solution
-  - ![](./assets/array-reverse.jpg)
+  - ![](./array-reverse.jpg)
