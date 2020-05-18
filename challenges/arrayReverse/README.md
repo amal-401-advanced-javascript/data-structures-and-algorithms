@@ -9,4 +9,4 @@
   - I only did for loop inside function and did the for loop reverse and push the output to a new array then console the output.
 
 ## Solution
-  - [](./assets/array-reverse.jpg)
+  - ![](./assets/array-reverse.jpg)
