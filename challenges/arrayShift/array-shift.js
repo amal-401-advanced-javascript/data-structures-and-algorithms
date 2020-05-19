@@ -22,21 +22,3 @@ console.log(insertShiftArray([2,4,6,8], 5));
 console.log(insertShiftArray([4,8,15,23,42], 16));
 
 module.exports = insertShiftArray;
-
-// let valInsert = 5;
-// let oldArr = [2, 4, 6, 8];
-// console.log("old Array", oldArr);
-// let idxPosition = 2;
-
-// function insertShiftArray() {
-//     for (let i = oldArr.length ; i > idxPosition; i--) {
-//         oldArr[i] = oldArr[i - 1];
-        
-        
-
-//     }
-//     return oldArr[idxPosition] = valInsert;
-// }
-
-//  insertShiftArray();
-// console.log("New Array", oldArr);
