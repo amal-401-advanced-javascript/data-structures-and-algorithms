@@ -4,7 +4,7 @@
   "description": "- third code challenge in 401",
   "main": "array-binary-search.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --verbose --coverage"
   },
   "keywords": [],
   "author": "",
