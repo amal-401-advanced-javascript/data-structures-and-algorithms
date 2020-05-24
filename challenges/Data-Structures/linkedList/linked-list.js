@@ -1,41 +1,39 @@
-'use strict';
 
 class Node {
-    constructor(data, next = null) {
-        this.data = data;
-        this.next = next;
+    constructor(data) {
+        this.value = data;
+        this.next = null;
 
     }
 
 }
 
-class singlyLinkedList {
+class SinglyLinkedList {
     constructor() {
         this.head = null;
 
     }
 
-    insert(value) {
+    insert(value='') {
         let newNode = new Node(value);
 
         if (!this.head) {
             this.head = newNode;
             return this;
         }
+        let current = this.head;
+        while(current.next){
+            current = current.next;
+        }
 
-
-        newNode.next = this.head;
-        this.head = newNode;
+        current.next = newNode;
         return this;
 
     }
     includes(value) {
-        if (!this.head) {
-            return false;
-        }
         let current = this.head;
-        while (current.next) {
-            if (current.value === value) {
+        while (current) {
+            if (current.data === value) {
                 return true;
             }
             current = current.next;
@@ -46,19 +44,15 @@ class singlyLinkedList {
 toString(){
     //"{ a } -> { b } -> { c } -> NULL";
     let current = this.head;
-    let str = '';
-    if(!this.head){
-        return 'Empty linked list {}';
-    }
+    let str = `{ ${current.value} }`;
     while(current.next){
-
-      str += ` { ${current.value} } ->`;
-      current = current.next;
+        current = current.next;
+        str += ` -> { ${current.value} }`;
+     
     }
-    str += `{ ${current.value} } -> NULL`;
-
-    return str;
+    return str + ' -> NULL ';
   }
 }
-module.exports.Node = Node;
-module.exports.singlyLinkedList = singlyLinkedList;
+
+module.exports.SinglyLinkedList = SinglyLinkedList;
+  
