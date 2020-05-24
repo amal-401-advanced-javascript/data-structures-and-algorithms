@@ -14,4 +14,4 @@
 
 
 ## API
- -  - ![](./.../assets/signly-linked-list.jpg)
+ -  - ![](./../assets/singly-linked-list.jpg)
