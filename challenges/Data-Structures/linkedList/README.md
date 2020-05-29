@@ -9,7 +9,7 @@
 
 ## Approach & Efficiency
 - insert O(1)
-- includes O(n^2)
+- includes O(n)
 - toString O(n)
 
 
