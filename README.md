@@ -12,3 +12,4 @@
 ## [Linked list insertions](./challenges/Data-Structure/linkedList/linked-list.js)
    - use some built-in function in the linked list such as (.append(value), .insertBefore(value, newVal), .insertAfter(value, newVal))
 ## [k-th value from the end of a linked list](./challenges/Data-Structure/linkedList/linked-list.js)
+  - Write a method for the Linked List class which takes a number, k, as a parameter. Return the node’s value that is k from the end of the linked list. 
