@@ -9,3 +9,6 @@
    - write function that search for number then return the index of that number , if the number does not exist return -1.
 ## [Singly-linked-list](./challenges/Data-Structure/linkedList/linked-list.js)
    - write a singly linked list that have three method(insert,includes,toString), to add,search and return all node in liked list.
+## [Linked list insertions](./challenges/Data-Structure/linkedList/linked-list.js)
+   - use some built-in function in the linked list such as (.append(value), .insertBefore(value, newVal), .insertAfter(value, newVal))
+## [k-th value from the end of a linked list](./challenges/Data-Structure/linkedList/linked-list.js)
