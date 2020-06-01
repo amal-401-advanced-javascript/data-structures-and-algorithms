@@ -21,7 +21,7 @@
 
 
 ## API
- - ![](../../assets/singly-linked-list.jpg)
+ - ![](../../assets/signly-linked-list.jpg)
  - ![](../../assets/insertions-linked-list.jpg)
  - ![](../../assets/k-th-linked-list.jpg)
 
