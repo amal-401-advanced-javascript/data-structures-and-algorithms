@@ -17,9 +17,11 @@
 - append O(n)
 - insertAfter O(nlogn)
 - insertBefore O(nlogn)
+- kthFromEnd O(nlogn)
 
 
 ## API
  - ![](../../assets/singly-linked-list.jpg)
  - ![](../../assets/insertions-linked-list.jpg)
+ - ![](../../assets/k-th-linked-list.jpg)
 

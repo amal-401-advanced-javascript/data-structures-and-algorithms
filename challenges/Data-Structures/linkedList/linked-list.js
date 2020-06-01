@@ -115,10 +115,43 @@ class SinglyLinkedList {
     return this;
 
   }
+  kthFromEnd(k){
+  
+    let  listi = this.head ;
+    let count = 0;
+
+    while (listi != null) {
+      count ++;
+      listi = listi.next;
+    }
+    let length = count;
+
+    if (k < 0 || k >= length) {
+      return null;
+    }
+
+    let pos = length - k;
+    let ctr = 1;
+    let current = this.head;
+    while(current != null && ctr < pos ){
+      current=current.next;
+      ctr += 1 ;
+    }
+    return current.value;
+  }
   
 }
 
-// let linkedListInsertions = new SinglyLinkedList();
+let linkedListInsertions = new SinglyLinkedList();
+linkedListInsertions.append(1);
+linkedListInsertions.append(3);
+linkedListInsertions.append(8);
+linkedListInsertions.append(2);
+
+
+//test at least once
+console.log(linkedListInsertions.kthFromEnd(0));
+
 
 // linkedListInsertions.append(1);
 // linkedListInsertions.append(2);
@@ -126,7 +159,7 @@ class SinglyLinkedList {
 // // linkedListInsertions.append(4);
 
 // console.log(linkedListInsertions.insertAfter(4,5));
-// console.log(linkedListInsertions.toString());
+
 
 module.exports.SinglyLinkedList = SinglyLinkedList;
   
