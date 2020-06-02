@@ -150,7 +150,7 @@ linkedListInsertions.append(2);
 
 
 //test at least once
-console.log(linkedListInsertions.kthFromEnd(0));
+// console.log(linkedListInsertions.kthFromEnd(0));
 
 
 // linkedListInsertions.append(1);
@@ -162,4 +162,3 @@ console.log(linkedListInsertions.kthFromEnd(0));
 
 
 module.exports.SinglyLinkedList = SinglyLinkedList;
-  
