@@ -9,6 +9,8 @@
   - 4. append(value) which adds a new node with the given value to the end of the list.
   - 5. insertBefore(value, newVal) which add a new node with the given newValue immediately before the first value node.
   - 5. insertAfter(value, newVal) which add a new node with the given newValue immediately after the first value node.
+  - 6. mergeLists(list1, list2) which merge two linked list on a new linked list.
+
 
 ## Approach & Efficiency
 - insert O(1)
@@ -18,10 +20,13 @@
 - insertAfter O(nlogn)
 - insertBefore O(nlogn)
 - kthFromEnd O(nlogn)
+- mergeLists O(n)
+
 
 
 ## API
  - ![](../../assets/signly-linked-list.jpg)
  - ![](../../assets/insertions-linked-list.jpg)
  - ![](../../assets/k-th-linked-list.jpg)
+ - ![](../../assets/merge-lists.jpg)
 
