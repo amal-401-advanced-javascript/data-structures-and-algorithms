@@ -21,13 +21,13 @@ function mergeLists(list1, list2){
   let second = list2.head;
   while(second ||first ){
     if(first){
-        afterMer.append(first.value);
-        first = first.next;
+      afterMer.append(first.value);
+      first = first.next;
    
     }
     if(second){
-        afterMer.append(second.value);
-        second = second.next;
+      afterMer.append(second.value);
+      second = second.next;
      
     }
   }
@@ -36,3 +36,4 @@ function mergeLists(list1, list2){
 }
 
 console.log(mergeLists(list1,list2).toString());
+ 
