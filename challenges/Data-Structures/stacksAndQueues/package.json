@@ -1,0 +1,17 @@
+{
+  "name": "stacksAndQueues",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stacks-and-queues.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "lint": "eslint '**/*.js'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.1.0",
+    "jest": "^26.0.1"
+  }
+}
