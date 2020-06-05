@@ -15,3 +15,6 @@
   - Write a method for the Linked List class which takes a number, k, as a parameter. Return the node’s value that is k from the end of the linked list. 
 
 ## [Merge two linked lists](./challenges/Data-Structure/llMerge/ll-merge.js)
+
+## [Stacks and Queues](./challenges/Data-Structure/stacksAndQueues/stacks-and-queues.js)
+  - write class Node, class Stack with their common terminology(push, pop, peek, isEmpty) and class Queue with their common terminology(enqueue, dequeue, peek, isEmpty).
