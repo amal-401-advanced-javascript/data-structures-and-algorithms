@@ -31,4 +31,4 @@
 
 ## API
   - ![](../../assets/stacks.jpg)
-  - ![](../../asssts/queues.jpg)
+  - ![](../../assets/queues.jpg)
