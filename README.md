@@ -18,3 +18,6 @@
 
 ## [Stacks and Queues](./challenges/Data-Structure/stacksAndQueues/stacks-and-queues.js)
   - write class Node, class Stack with their common terminology(push, pop, peek, isEmpty) and class Queue with their common terminology(enqueue, dequeue, peek, isEmpty).
+
+## [ Queue with Stack ](./challenges/Data-Structure/queueWithStacks/queue-with-stacks.js)
+  - Implement a Queue using two Stacks.
