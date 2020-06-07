@@ -17,4 +17,4 @@
     - dequeue  O(n)
 
 ## Solution
-  - - ![](../../asssts/queuewithstacks.jpg)
+  - - ![](../../assets/queuewithstacks.jpg)
