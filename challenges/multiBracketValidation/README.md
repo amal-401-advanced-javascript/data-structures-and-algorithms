@@ -13,4 +13,4 @@
      - Space: O(1) 
 
 ## API
-  - ![](../../assets/multi-bracket.jpg)
+  - ![](../assets/multi-bracket.jpg)
