@@ -21,3 +21,6 @@
 
 ## [ Queue with Stack ](./challenges/Data-Structure/queueWithStacks/queue-with-stacks.js)
   - Implement a Queue using two Stacks.
+
+## [ Multi-bracket Validation ](./challenges/multiBracketValidation/multi-bracket-validation.js)
+  - Multi-bracket Validation.
