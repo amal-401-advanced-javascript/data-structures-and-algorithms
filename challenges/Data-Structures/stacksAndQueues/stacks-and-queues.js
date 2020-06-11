@@ -67,30 +67,30 @@ class Queue{
 
 }
 
-const stack = new Stack();
-console.log('---------Stack------------');
-console.log('is empty stack',stack.isEmpty());
-console.log(stack.push(3));
-console.log(stack.push(4));
-console.log('top node on stack',stack.peek());
-console.log('is empty stack',stack.isEmpty());
-console.log(stack.pop());
-console.log('is empty stack',stack.isEmpty());
+// const stack = new Stack();
+// console.log('---------Stack------------');
+// console.log('is empty stack',stack.isEmpty());
+// console.log(stack.push(3));
+// console.log(stack.push(4));
+// console.log('top node on stack',stack.peek());
+// console.log('is empty stack',stack.isEmpty());
+// console.log(stack.pop());
+// console.log('is empty stack',stack.isEmpty());
 
 
-const queue = new Queue();
-console.log('---------Queue------------');
-console.log('is empty queue',queue.isEmpty());
-console.log(queue.enqueue(3));
-console.log(queue.enqueue(7));
-console.log('front node on queue',queue.peek());
-console.log('is empty stack',queue.isEmpty());
-console.log(queue.dequeue());
-console.log('is empty queue',queue.isEmpty());
-
-
+// const queue = new Queue();
+// console.log('---------Queue------------');
+// console.log('is empty queue',queue.isEmpty());
+// console.log(queue.enqueue(3));
+// console.log(queue.enqueue(7));
+// console.log('front node on queue',queue.peek());
+// console.log('is empty stack',queue.isEmpty());
+// console.log(queue.dequeue());
+// console.log('is empty queue',queue.isEmpty());
 
 
 
 
 
+module.exports.Node =Node;
+module.exports.Queue=Queue;

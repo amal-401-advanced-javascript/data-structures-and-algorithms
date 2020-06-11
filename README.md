@@ -24,3 +24,6 @@
 
 ## [ Multi-bracket Validation ](./challenges/multiBracketValidation/multi-bracket-validation.js)
   - Multi-bracket Validation .
+
+## [](./challenges/Data-Structure/fifoAnimalShelter/fifo-animal-shelter.js)
+  - First-in, First out Animal Shelter.
