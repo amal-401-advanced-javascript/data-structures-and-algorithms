@@ -25,5 +25,9 @@
 ## [ Multi-bracket Validation ](./challenges/multiBracketValidation/multi-bracket-validation.js)
   - Multi-bracket Validation .
 
-## [](./challenges/Data-Structure/fifoAnimalShelter/fifo-animal-shelter.js)
+## [ fifoAnimalShelter ](./challenges/Data-Structure/fifoAnimalShelter/fifo-animal-shelter.js)
   - First-in, First out Animal Shelter.
+
+## [  Tree ](./challenges/Data-Structure/tree/tree.js)
+  -  Binary Tree and BST Implementation
+
