@@ -31,5 +31,5 @@
 ## [  Tree ](https://github.com/amal-401-advanced-javascript/data-structures-and-algorithms/blob/master/challenges/Data-Structures/tree/tree.js)
   -  Binary Tree and BST Implementation
 
-## [ fizzbuzz Tree ](./challenges/Data-Structure/fizzBuzzTree/fizz-buzz-tree.js)
+## [ fizzbuzz Tree ](https://github.com/amal-401-advanced-javascript/data-structures-and-algorithms/blob/master/challenges/Data-Structures/fizzBuzzTree/fizz-buzz-tree.js)
   -  Conduct “FizzBuzz” on a tree while traversing through it. Change the values of each of the nodes dependent on the current node’s value
