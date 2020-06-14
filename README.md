@@ -25,7 +25,7 @@
 ## [ Multi-bracket Validation ](./challenges/multiBracketValidation/multi-bracket-validation.js)
   - Multi-bracket Validation .
 
-## [ fifoAnimalShelter ](../challenges/Data-Structures/fifoAnimalShelter/fifo-animal-shelter.js )
+## [ fifoAnimalShelter ](https://github.com/amal-401-advanced-javascript/data-structures-and-algorithms/blob/master/challenges/Data-Structures/fifoAnimalShelter/fifo-animal-shelter.js )
   - First-in, First out Animal Shelter.
 
 ## [  Tree ](https://github.com/amal-401-advanced-javascript/data-structures-and-algorithms/blob/master/challenges/Data-Structures/tree/tree.js)
