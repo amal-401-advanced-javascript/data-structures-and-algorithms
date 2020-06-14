@@ -149,3 +149,4 @@ console.log(binarySearchTree.toString());
 console.log(binarySearchTree.contains(40));
 
 
+module.exports.BinaryTree = new BinaryTree();
