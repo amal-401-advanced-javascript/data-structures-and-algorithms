@@ -28,7 +28,7 @@
 ## [ fifoAnimalShelter ](../challenges/Data-Structures/fifoAnimalShelter/fifo-animal-shelter.js )
   - First-in, First out Animal Shelter.
 
-## [  Tree ](./challenges/Data-Structure/tree/tree.js)
+## [  Tree ](https://github.com/amal-401-advanced-javascript/data-structures-and-algorithms/blob/master/challenges/Data-Structures/tree/tree.js)
   -  Binary Tree and BST Implementation
 
 ## [ fizzbuzz Tree ](./challenges/Data-Structure/fizzBuzzTree/fizz-buzz-tree.js)
