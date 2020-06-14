@@ -31,3 +31,5 @@
 ## [  Tree ](./challenges/Data-Structure/tree/tree.js)
   -  Binary Tree and BST Implementation
 
+## [ fizzbuzz Tree ](./challenges/Data-Structure/fizzBuzzTree/fizz-buzz-tree.js)
+  -  Conduct “FizzBuzz” on a tree while traversing through it. Change the values of each of the nodes dependent on the current node’s value
