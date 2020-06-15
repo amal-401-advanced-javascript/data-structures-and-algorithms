@@ -9,7 +9,8 @@
       - Left -> Root -> Right 
     - postOrder
       - Left -> Right -> Root
-
+    - breadthFirst
+      - iterates through the tree by going through each level of the tree node-by-node
   - Create class BinarySearchTree
     - add(value)
       - adds a new node with that value in the correct location in the binary search tree.
@@ -22,6 +23,10 @@
      - O(n)
    - contains(value)
      - O(n)
+   - breadthFirst(value)
+     - Time O(n) 
+     - Space O(h) h being the height of the tree
 
 ## API
   - ![](../../assets/tree.jpg)
+  - ![](../../assets/Breadth-first Traversal.jpg)
