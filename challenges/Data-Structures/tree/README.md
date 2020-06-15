@@ -29,4 +29,4 @@
 
 ## API
   - ![](../../assets/tree.jpg)
-  - ![](../../assets/Breadth-first Traversal.jpg)
+  - ![](../../assets/Breadth-first-Traversal.jpg)
