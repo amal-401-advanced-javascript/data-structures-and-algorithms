@@ -33,3 +33,8 @@
 
 ## [ fizzbuzz Tree ](https://github.com/amal-401-advanced-javascript/data-structures-and-algorithms/blob/master/challenges/Data-Structures/fizzBuzzTree/fizz-buzz-tree.js)
   -  Conduct “FizzBuzz” on a tree while traversing through it. Change the values of each of the nodes dependent on the current node’s value
+
+## [ Breadth-first Traversal ](https://github.com/amal-401-advanced-javascript/data-structures-and-algorithms/blob/master/challenges/Data-Structures/tree/tree.js)
+  -  Write a breadth first traversal method which takes a Binary Tree as its unique input.
+
+
