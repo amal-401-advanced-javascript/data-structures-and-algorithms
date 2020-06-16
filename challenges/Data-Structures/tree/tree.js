@@ -13,7 +13,7 @@ class Node{
 }
 
 class BinaryTree{
-  constructor(root=null){
+  constructor(root){
     this.root=root;
   }
   toString() {
@@ -74,6 +74,22 @@ class BinaryTree{
       newQueue.enqueue(value.right);
     }
   
+  }
+  find_maximum_value(value){
+
+    if(!value) return 'Invalid Input';
+    
+    let maxValue = 0;
+    const _traversal = (node) => {
+      if(node.left)_traversal(node.left);
+      maxValue = node.value > maxValue ? node.value : maxValue;
+      if(node.right)_traversal(node.right);
+      
+    };
+    _traversal(value.root);
+    
+    
+    return maxValue;
   }
   
 }
@@ -138,10 +154,10 @@ class BinaryTree{
 //   }
 // }
 
-const one = new Node(2);
-const two = new Node(7);
-const three = new Node(5);
-const four = new Node(2);
+const one = new Node(1);
+const two = new Node(2);
+const three = new Node(3);
+const four = new Node(4);
 const five = new Node(6);
 const six = new Node(9);
 const seven = new Node(5);
@@ -160,11 +176,12 @@ three.right=six;
 six.left=nine;
 
 
-
 const binaryTree = new BinaryTree(one);
+// console.log(binaryTree.postOrder(one));
 
 
-// console.log(binaryTree.postOrder());
+
+
 
 // const binarySearchTree = new BinarySearchTree();
 // binarySearchTree.add(40);
@@ -177,6 +194,6 @@ const binaryTree = new BinaryTree(one);
 
 console.log(binaryTree.breadthFirst(2));
 console.log(binaryTree.toString());
-
-module.exports.BinaryTree = new BinaryTree();
+console.log(binaryTree.find_maximum_value(4));
+module.exports = BinaryTree;
 

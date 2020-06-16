@@ -37,4 +37,7 @@
 ## [ Breadth-first Traversal ](https://github.com/amal-401-advanced-javascript/data-structures-and-algorithms/blob/master/challenges/Data-Structures/tree/tree.js)
   -  Write a breadth first traversal method which takes a Binary Tree as its unique input.
 
+## [ Maximum Value ](https://github.com/amal-401-advanced-javascript/data-structures-and-algorithms/blob/master/challenges/Data-Structures/tree/tree.js)
+  - Find the Maximum Value in a Binary Tree
+
 

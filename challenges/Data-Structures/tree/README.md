@@ -16,6 +16,8 @@
       - adds a new node with that value in the correct location in the binary search tree.
     - contains(value)
       - returns a boolean indicating whether or not the value is in the tree at least once.
+  - find_maximum_value(value)
+      - Find the Maximum Value in a Binary Tree.
 
 
 ## Approach & Efficiency
@@ -26,7 +28,10 @@
    - breadthFirst(value)
      - Time O(n) 
      - Space O(h) h being the height of the tree
-
+   - find_maximum_value
+     - Time O(n) 
+     - Space O(h) h being the height of the tree
 ## API
   - ![](../../assets/tree.jpg)
   - ![](../../assets/Breadth-first-Traversal.jpg)
+  - ![](../../assets/find-maximum-value.jpg)
