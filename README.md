@@ -41,3 +41,7 @@
   - Find the Maximum Value in a Binary Tree
 
 
+## [ Insertion Sort ](./challenges/Insertion-Sort/insertion-Sort.js)
+  - Insertion Sort Insertion sort is a simple sorting algorithm that works the way we sort playing cards in our hands.
+
+
