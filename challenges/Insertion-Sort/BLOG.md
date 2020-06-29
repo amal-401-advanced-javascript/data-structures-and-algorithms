@@ -14,7 +14,7 @@
 # Pseudo-code vs code :
   - InsertionSort(int[] arr) | function InsertionSort(arr)
     - FOR i = 1 to arr.length | for (let i = 1; i < arr.length ; i++)
-  ```
+ 
      - int j <-- i - 1 | t j = i-1;
        - int temp <-- arr[i] | let temp = arr[i]
 
@@ -30,6 +30,6 @@
   - first thing we create a for loop starting from one to the length of the array .
   - we set a variable for the previous index and one for the current index .
   - Using a while loop to shift the values depend on the sorting type.
-
-# UML
+  
+ # UML
   - ![](../assets/insertion.jpg)
