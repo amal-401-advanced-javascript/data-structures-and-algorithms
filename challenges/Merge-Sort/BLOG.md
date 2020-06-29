@@ -64,3 +64,4 @@ ALGORITHM Merge(left, right, arr)
 
 # UML
   - ![](../assets/mergesort.jpg)
+  
