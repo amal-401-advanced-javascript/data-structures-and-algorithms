@@ -1,0 +1,17 @@
+{
+  "name": "Merge-Sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "merge-sort.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "lint": "eslint '**/*.js'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.3.1",
+    "jest": "^26.1.0"
+  }
+}

@@ -38,3 +38,6 @@
   -  Write a breadth first traversal method which takes a Binary Tree as its unique input.
 
 
+
+## [ Merge Sort ](https://github.com/amal-401-advanced-javascript/data-structures-and-algorithms/blob/master/challenges/Data-Structures/tree/tree.js)
+ 
