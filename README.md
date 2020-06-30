@@ -45,3 +45,6 @@
   - Insertion Sort Insertion sort is a simple sorting algorithm that works the way we sort playing cards in our hands.
 
 
+
+## [ Merge Sort ](https://github.com/amal-401-advanced-javascript/data-structures-and-algorithms/blob/master/challenges/Data-Structures/tree/tree.js)
+ 
