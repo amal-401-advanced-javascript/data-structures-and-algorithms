@@ -50,3 +50,5 @@
 
 ## [ quick Sort ](https://github.com/amal-401-advanced-javascript/data-structures-and-algorithms/blob/master/challenges/Data-Structures/tree/tree.js)
  
+## [Hash Table ](./challenges/Data-Structure/hashtable/hashtable.js)
+   - Hash tables are used to map a given value with a particular key for faster access of elements.
