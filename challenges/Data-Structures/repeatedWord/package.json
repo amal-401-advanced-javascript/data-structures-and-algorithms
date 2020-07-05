@@ -1,0 +1,16 @@
+{
+  "name": "repeatedWord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "repeated-word.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "lint": "eslint '**/*.js'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.4.0"
+  }
+}

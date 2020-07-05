@@ -52,3 +52,7 @@
  
 ## [Hash Table ](./challenges/Data-Structure/hashtable/hashtable.js)
    - Hash tables are used to map a given value with a particular key for faster access of elements.
+
+
+## [Repeated Word ](./challenges/Data-Structure/repeatedWord/repeated-word.js)
+   - function that accepts a lengthy string parameter, return the first word to occur more than once in that provided string.
