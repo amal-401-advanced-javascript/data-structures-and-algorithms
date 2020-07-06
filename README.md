@@ -56,3 +56,7 @@
 
 ## [Repeated Word ](./challenges/Data-Structure/repeatedWord/repeated-word.js)
    - function that accepts a lengthy string parameter, return the first word to occur more than once in that provided string.
+
+
+## [Tree Intersection ](./challenges/treeIntersection/tree-intersection.js)
+   - function that takes two binary tree parameters, return a set of values found in both trees.

@@ -42,17 +42,17 @@ class SinglyLinkedList {
     return false;
   }
 
-  toString(){
-    //"{ a } -> { b } -> { c } -> NULL";
-    let current = this.head;
-    let str = `{ ${current.value} }`;
-    while(current.next){
-      current = current.next;
-      str += ` -> { ${current.value} }`;
+  // toString(){
+  //   //"{ a } -> { b } -> { c } -> NULL";
+  //   let current = this.head;
+  //   let str = `{ ${current.value} }`;
+  //   while(current.next){
+  //     current = current.next;
+  //     str += ` -> { ${current.value} }`;
      
-    }
-    return str + ' -> NULL ';
-  }
+  //   }
+  //   return str + ' -> NULL ';
+  // }
 
   append(value){
     let addNodeToEnd = new Node(value);
@@ -139,6 +139,7 @@ class SinglyLinkedList {
     }
     return current.value;
   }
+  
   
 }
 
