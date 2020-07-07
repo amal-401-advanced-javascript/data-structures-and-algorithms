@@ -39,7 +39,7 @@ class Linkedlist{
 class Hashmap{
   constructor(size){
     this.size=size;
-    this.map= new Array(size);
+    this.map= new Array(this.size);
   }
 
   hash(key){
@@ -79,5 +79,5 @@ myHashmap.add('Name' ,'Amal');
 myHashmap.map.forEach( (data, i )=> {
   console.log(i, data && data.values());
 });
-console.log( myHashmap.contains('cat'));
-module.exports = Hashmap;
+// console.log( myHashmap.contains('cat'));
+module.exports =  {Linkedlist,Hashmap};
