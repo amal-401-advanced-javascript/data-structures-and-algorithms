@@ -60,3 +60,7 @@
 
 ## [Tree Intersection ](./challenges/treeIntersection/tree-intersection.js)
    - function that takes two binary tree parameters, return a set of values found in both trees.
+
+
+## [Repeated Word ](./challenges/Data-Structure/leftJoin/left-join.js)
+   -  function that LEFT JOINs two hashmaps into a single data structure.
