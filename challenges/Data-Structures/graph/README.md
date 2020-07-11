@@ -2,7 +2,7 @@
    - A Graph is a non-linear data structure and consists of a finite set of vertices(or nodes) and set of Edges which connect a pair of nodes.
 
 # Links
-  - [Submission PR]()
+  - [Submission PR](https://github.com/amal-401-advanced-javascript/data-structures-and-algorithms/pull/40)
 
 
 # Challenge
