@@ -60,3 +60,7 @@
 
 ## [Tree Intersection ](./challenges/treeIntersection/tree-intersection.js)
    - function that takes two binary tree parameters, return a set of values found in both trees.
+
+
+## [Repeated Word ](./challenges/Data-Structure/graph/graph.js)
+   - A Graph is a non-linear data structure and consists of a finite set of vertices(or nodes) and set of Edges which connect a pair of nodes.
