@@ -73,11 +73,11 @@ class Hashmap{
 }
 
 
-let myHashmap = new Hashmap(10);
-myHashmap.add('Name' ,'Amal');
+// let myHashmap = new Hashmap(10);
+// myHashmap.add('Name' ,'Amal');
 
-myHashmap.map.forEach( (data, i )=> {
-  console.log(i, data && data.values());
-});
-console.log( myHashmap.contains('cat'));
+// myHashmap.map.forEach( (data, i )=> {
+//   console.log(i, data && data.values());
+// });
+// console.log( myHashmap.contains('cat'));
 module.exports = Hashmap;
