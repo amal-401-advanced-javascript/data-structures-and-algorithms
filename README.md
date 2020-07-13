@@ -61,3 +61,7 @@
 
 ## [Repeated Word ](./challenges/Data-Structure/breadthFirst/breadth-first.js)
    - Implement a breadth-first traversal on a graph.
+
+
+## [Get Edge ](./challenges/Data-Structure/getEdge/get-edge.js)
+   - Given a business trip itinerary, and an Alaska Airlines route map, is the trip possible with direct flights? If so, how much will the total trip cost be?
