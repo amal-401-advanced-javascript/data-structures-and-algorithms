@@ -58,10 +58,17 @@
    - function that accepts a lengthy string parameter, return the first word to occur more than once in that provided string.
 
 
-
-## [Repeated Word ](./challenges/Data-Structure/breadthFirst/breadth-first.js)
+## [breadth-first-graph ](./challenges/Data-Structure/breadthFirst/breadth-first.js)
    - Implement a breadth-first traversal on a graph.
+
+## [Tree Intersection ](./challenges/treeIntersection/tree-intersection.js)
+   - function that takes two binary tree parameters, return a set of values found in both trees.
+
+
+## [graph ](./challenges/Data-Structure/graph/graph.js)
+   - A Graph is a non-linear data structure and consists of a finite set of vertices(or nodes) and set of Edges which connect a pair of nodes.
 
 
 ## [Get Edge ](./challenges/Data-Structure/getEdge/get-edge.js)
    - Given a business trip itinerary, and an Alaska Airlines route map, is the trip possible with direct flights? If so, how much will the total trip cost be?
+

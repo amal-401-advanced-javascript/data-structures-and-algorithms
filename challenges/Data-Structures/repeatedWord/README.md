@@ -20,4 +20,4 @@
 
 
 # Solution
-  - ![](../assets/repeatedword.jpg)
+  - ![](../../assets/repeatedword.jpg)
