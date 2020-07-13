@@ -68,3 +68,7 @@
 ## [graph ](./challenges/Data-Structure/graph/graph.js)
    - A Graph is a non-linear data structure and consists of a finite set of vertices(or nodes) and set of Edges which connect a pair of nodes.
 
+
+## [Get Edge ](./challenges/Data-Structure/getEdge/get-edge.js)
+   - Given a business trip itinerary, and an Alaska Airlines route map, is the trip possible with direct flights? If so, how much will the total trip cost be?
+
