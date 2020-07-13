@@ -9,7 +9,7 @@
 
 
 # Links and Resources
-  - [Submission PR](https://github.com/amal-401-advanced-javascript/data-structures-and-algorithms/pull/41)
+  - [Submission PR](https://github.com/amal-401-advanced-javascript/data-structures-and-algorithms/pull/42)
 
 
 ## Approach & Efficiency
