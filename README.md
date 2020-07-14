@@ -72,3 +72,5 @@
 ## [Get Edge ](./challenges/Data-Structure/getEdge/get-edge.js)
    - Given a business trip itinerary, and an Alaska Airlines route map, is the trip possible with direct flights? If so, how much will the total trip cost be?
 
+## [depth-first-grap ](./challenges/Data-Structure/depthFirst/depth-first.js)
+   - Conduct a depth first preorder traversal on a graph
